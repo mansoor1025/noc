@@ -4,7 +4,7 @@
 <div class="boxed">
     <div id="content-container">
         <div class="pageheader hidden-xs">
-            <h3><i class="fa fa-home"></i> View Invoice</h3>
+            <h3><i class="fa fa-home"></i> View Invoicesss</h3>
             <div class="breadcrumb-wrapper">
                 <span class="label">You are here:</span>
                 <ol class="breadcrumb">
